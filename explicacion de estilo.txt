@@ -1,0 +1,25 @@
+body: Aplica estilos al cuerpo de la página.
+font-family: Define la tipografía.
+background-color: Cambia el color de fondo.
+color: Define el color del texto.
+margin y padding: Elimina los márgenes y espacios internos predeterminados.
+.header: Aplica estilo al encabezado.
+background-image: Usa una imagen como fondo.
+background-size: cover: Hace que la imagen cubra todo el área del encabezado.
+text-align: center: Centra el contenido.
+box-shadow: Añade sombra alrededor del encabezado para dar profundidad.
+.nav-menu a: Estiliza los enlaces del menú.
+text-decoration: none: Elimina el subrayado.
+margin: Añade espacio entre los enlaces.
+.section-content: Aplica estilo a cada sección.
+border-left: Añade una línea vertical en el borde izquierdo.
+border-radius: Redondea las esquinas.
+box-shadow: Añade una sombra suave.
+.image: Estiliza las imágenes.
+max-width: 600px: Establece un tamaño máximo.
+margin: 20px auto: Centra la imagen.
+border: Añade un borde dorado.
+.footer: Aplica estilo al pie de página.
+position: fixed: Hace que el pie de página permanezca visible aunque el usuario desplace la página.
+bottom: 0: Ubica el pie de página en la parte inferior.
+width: 100%: Hace que ocupe todo el ancho.

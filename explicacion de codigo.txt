@@ -1,0 +1,19 @@
+<!DOCTYPE html>: Declara que el documento es de tipo HTML5.
+<html lang="es">: Indica que el contenido del sitio está en español.
+HTML
+<head>: Contiene la información meta y recursos necesarios para la página.
+<meta charset="UTF-8">: Define la codificación de caracteres para evitar problemas con acentos o caracteres especiales.
+<meta name="viewport" content="width=device-width, initial-scale=1.0">: Asegura que la página se vea bien en dispositivos móviles, ajustando el ancho.
+<title>Miel de Caña</title>: Define el título que aparecerá en la pestaña del navegador.
+<link rel="stylesheet" href="styles.css">: Conecta la página con un archivo CSS para aplicar estilos.
+<body>: Contiene el contenido visible de la página.
+<header class="header">: Define el encabezado del sitio con la clase header para darle estilo.
+<h1>: Muestra el título principal de la página.
+<nav class="nav-menu">: Define el menú de navegación con enlaces internos. Cada enlace usa href="#seccion" para llevar al usuario a una sección específica de la página.
+<main>: Contiene el contenido principal de la página.
+<section>: Agrupa contenido relacionado, usando id="miel" para enlazar desde el menú y class="section-content" para aplicar estilo.
+<h2>: Título de cada sección.
+<p>: Párrafo que describe el proceso.
+<img>: Muestra una imagen; src="miel.jpg" indica la ubicación, y alt proporciona texto alternativo en caso de que la imagen no cargue.
+<footer>: Define el pie de página.
+<p>: Texto en el pie con el copyright.
